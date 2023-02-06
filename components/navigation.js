@@ -5,6 +5,7 @@ const Navigation = () => (
 			<a href="#" className="border-b-2 border-transparent hover:text-gray-800 hover:border-blue-500 mx-1.5 sm:mx-6">features</a>
 			<a href="#" className="border-b-2 border-transparent hover:text-gray-800 hover:border-blue-500 mx-1.5 sm:mx-6">pricing</a>
 			<a href="#" className="border-b-2 border-transparent hover:text-gray-800 hover:border-blue-500 mx-1.5 sm:mx-6">blog</a>
+			<a href="/charts" className="border-b-2 border-transparent hover:text-gray-800 hover:border-blue-500 mx-1.5 sm:mx-6">Charts</a>
 		</div>
 	</nav>
 )

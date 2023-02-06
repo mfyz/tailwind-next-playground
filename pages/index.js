@@ -151,8 +151,8 @@ export default function Home() {
 
 				<SectionTitle>Table</SectionTitle>			
 				<div className="flex items-center px-4 bg-gray-200 py-24">
-					<div class='overflow-x-auto w-full'>
-						<table class='mx-auto max-w-4xl w-full whitespace-nowrap rounded-lg bg-white divide-y divide-gray-300 overflow-hidden'>
+					<div className='overflow-x-auto w-full'>
+						<table className='mx-auto max-w-4xl w-full whitespace-nowrap rounded-lg bg-white divide-y divide-gray-300 overflow-hidden'>
 							<thead className="bg-gray-50">
 								<tr className="text-gray-600 text-left">
 									<th className="font-semibold text-sm uppercase px-6 py-4">
@@ -177,7 +177,7 @@ export default function Home() {
 									<td className="px-6 py-4">
 										<div className="flex items-center space-x-3">
 											<div className="inline-flex w-10 h-10">
-												<img class='w-10 h-10 object-cover rounded-full' alt='User avatar' src='https://images.unsplash.com/photo-1477118476589-bff2c5c4cfbb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=200&q=200' />
+												<img className='w-10 h-10 object-cover rounded-full' alt='User avatar' src='https://images.unsplash.com/photo-1477118476589-bff2c5c4cfbb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=200&q=200' />
 											</div>
 											<div>
 												<p className="">
@@ -213,7 +213,7 @@ export default function Home() {
 									<td className="px-6 py-4">
 										<div className="flex items-center space-x-3">
 											<div className="inline-flex w-10 h-10">
-												<img class='w-10 h-10 object-cover rounded-full' alt='User avatar' src='https://images.unsplash.com/photo-1477118476589-bff2c5c4cfbb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=200&q=200' />
+												<img className='w-10 h-10 object-cover rounded-full' alt='User avatar' src='https://images.unsplash.com/photo-1477118476589-bff2c5c4cfbb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=200&q=200' />
 											</div>
 											<div>
 												<p className="">
