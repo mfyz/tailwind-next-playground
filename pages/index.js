@@ -10,7 +10,7 @@ export default function Home() {
 				<title>Tailwind CSS Test</title>
 			</Head>
 			<main>
-				<SectionTitle>Hello There!</SectionTitle>
+				<SectionTitle>Hello There4!</SectionTitle>
 				<p>
 				Proident dolor ea ea veniam proident ea tempor ipsum anim adipisicing ea deserunt ad.
 				Adipisicing aliqua deserunt officia ea esse occaecat exercitation.
